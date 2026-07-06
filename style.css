@@ -944,3 +944,18 @@ transition:.3s;
 transform:scale(1.07);
 
 }
+
+.footer-links{
+    margin-top:20px;
+}
+
+.footer-links a{
+    color:#ffffff;
+    text-decoration:none;
+    margin:0 8px;
+    transition:0.3s;
+}
+
+.footer-links a:hover{
+    color:#8b5cf6;
+}
