@@ -959,3 +959,21 @@ transform:scale(1.07);
 .footer-links a:hover{
     color:#8b5cf6;
 }
+
+.telegram-badge{
+    margin-top:15px;
+    color:#d1d5db;
+    font-size:15px;
+    font-weight:500;
+    opacity:0.9;
+}
+
+.legal-info a{
+    color:#8b5cf6;
+    text-decoration:none;
+    font-weight:600;
+}
+
+.legal-info a:hover{
+    color:#ffffff;
+}
